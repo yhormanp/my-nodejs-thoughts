@@ -1,0 +1,44 @@
+Error: Ooops
+    at Timeout._onTimeout (/Users/yhorman_perez/Documents/ESTUDIO/NodeJs/my-nodejs-thoughts/utilidades-debugging/console-class.js:11:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+Error: Ooops
+    at Timeout._onTimeout (/Users/yhorman_perez/Documents/ESTUDIO/NodeJs/my-nodejs-thoughts/utilidades-debugging/console-class.js:11:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+Error: Ooops
+    at Timeout._onTimeout (/Users/yhorman_perez/Documents/ESTUDIO/NodeJs/my-nodejs-thoughts/utilidades-debugging/console-class.js:11:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+Error: Ooops
+    at Timeout._onTimeout (/Users/yhorman_perez/Documents/ESTUDIO/NodeJs/my-nodejs-thoughts/utilidades-debugging/console-class.js:11:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+Error: Ooops
+    at Timeout._onTimeout (/Users/yhorman_perez/Documents/ESTUDIO/NodeJs/my-nodejs-thoughts/utilidades-debugging/console-class.js:11:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+Error: Ooops
+    at Timeout._onTimeout (/Users/yhorman_perez/Documents/ESTUDIO/NodeJs/my-nodejs-thoughts/utilidades-debugging/console-class.js:11:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+Error: Ooops
+    at Timeout._onTimeout (/Users/yhorman_perez/Documents/ESTUDIO/NodeJs/my-nodejs-thoughts/utilidades-debugging/console-class.js:11:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+Error: Ooops
+    at Timeout._onTimeout (/Users/yhorman_perez/Documents/ESTUDIO/NodeJs/my-nodejs-thoughts/utilidades-debugging/console-class.js:11:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+Error: Ooops
+    at Timeout._onTimeout (/Users/yhorman_perez/Documents/ESTUDIO/NodeJs/my-nodejs-thoughts/utilidades-debugging/console-class.js:11:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+Error: Ooops
+    at Timeout._onTimeout (/Users/yhorman_perez/Documents/ESTUDIO/NodeJs/my-nodejs-thoughts/utilidades-debugging/console-class.js:11:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+Error: Ooops
+    at Timeout._onTimeout (/Users/yhorman_perez/Documents/ESTUDIO/NodeJs/my-nodejs-thoughts/utilidades-debugging/console-class.js:11:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
