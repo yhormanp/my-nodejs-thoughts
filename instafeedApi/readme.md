@@ -36,17 +36,11 @@ se instaló los paquetes, nodemon, eslint, eslint-config-prettier, eslint-plugin
 
 npm i -D eslint eslint-config-prettier eslint-plugin-prettier prettier nodemon
 
+se genera un nuevo .gitinore a partir de la pagina gitignore.io, donde se le pasan los valores node, linux, mac, windows
 
-vamos a crear un hook, para que haga el formateo automatico cada vez que se hace commit y se sube al repositorio
-npx mrm lint-staged
+se generan las rutas de articles, con una funcion que recibe el app y lo asocia con el router generado
 
-instalamos el paquete mongo db
-npm i mongodb
+se genera informaición de ejemplo de la pagina mockaroos
 
-instalamos dependencias para las pruebas 
-Mocha: correr los test
-supertest: utilidad que nos ayuda a levantar un servidor temporal
-sinon: nos ayuda  a hacer mocks para test
-proxyquire: nos ayuda a implementar los mocks cuando se requiran
-
-npm i -D mocha supertest sinon proxyquire 
+se empiezan a crear los schemas , con mongoose
+se instala la dependencia de prod de mongoose  npm i mongoose
