@@ -6,7 +6,9 @@ fs.readFile('./archivo.txt', 'utf-8')
   .then((result) => {
     console.log('prrimer texto: ', result);
   })
-  .catch((err) => {});
+  .catch((err) => {
+    console.log('error: ', err);
+  });
 
 console.log('hacer cosas mientras lee el archivo ');
 
@@ -15,14 +17,17 @@ fs.readFile('./archivo2.txt', 'utf-8')
   .then((result) => {
     console.log('segundo text: ', result);
   })
-  .catch((err) => {});
+  .catch((err) => {
+    console.log('error: ', err);
+  });
 
-// Hay librerias en las que no se tiene promises por lo que se pueden convertir a la 
+// Hay librerias en las que no se tiene promises por lo que se pueden convertir a la
 // funcionalidad de promesas usando promisify. Solo en los modulos nativos que no tienen promesass
 const fsNew = require('node:fs');
 
 const { promisify } = require('node:util');
 
+// eslint-disable-next-line no-unused-vars
 const readFilePromise = promisify(fsNew.readFile);
 
 console.log('leyendo el primer archivo');
@@ -32,7 +37,9 @@ fsNew
   .then((result) => {
     console.log('prrimer texto: ', result);
   })
-  .catch((err) => {});
+  .catch((err) => {
+    console.log('error: ', err);
+  });
 
 console.log('hacer cosas mientras lee el archivo ');
 
@@ -42,4 +49,6 @@ fsNew
   .then((result) => {
     console.log('segundo texto: ', result);
   })
-  .catch((err) => {});
+  .catch((err) => {
+    console.log('error: ', err);
+  });

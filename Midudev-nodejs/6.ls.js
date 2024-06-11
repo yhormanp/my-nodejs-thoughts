@@ -6,7 +6,7 @@ fs.readFile('./', (err, files) => {
     return;
   }
 
-  files.forEach(file => {
-    console.log(file)
-  })
+  files.forEach((file) => {
+    console.log(file);
+  });
 });
