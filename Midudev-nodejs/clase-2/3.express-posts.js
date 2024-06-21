@@ -1,6 +1,6 @@
 const express = require('express');
 
-function postsAPI(app) {
+function postsAPI (app) {
   const router = express.Router();
 
   app.use('/api/posts', router);
@@ -19,5 +19,5 @@ function postsAPI(app) {
 }
 
 module.exports = {
-  postsAPI,
+  postsAPI
 };
