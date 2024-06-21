@@ -18,7 +18,7 @@ postsAPI(app);
 
 app.get('/', (req, res) => {
   //   res.status(200).send('<h2>Mi pagina web</h2>');
-  res.json({ message: 'hola mundo' });
+  res.json({ message: 'hola mundo mod' });
 });
 
 app.post('/pokemon/ditto', (req, res) => {
