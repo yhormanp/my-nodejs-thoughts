@@ -1,4 +1,4 @@
-import { MovieModel } from '../Models/movie.js';
+import { MovieModel } from '../Models/local-file-system/movie.js';
 import { validateMovie, validatePartialMovie } from '../schemas/moviesSchema.js'
 
 
