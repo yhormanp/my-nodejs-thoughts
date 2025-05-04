@@ -8,5 +8,11 @@ En este Capítulo 2 desarrollaremos una API desde cero con  Express y Node.js. E
 
 
 
-En este Capítulo 2 creamos desde cero y paso a paso con Express una REST API. Explicamos qué es y cómo funciona. También veremos las diferencias entre POST, PUT y PATCH.
-¡Y vas a entender CORS de una vez por todas! Lo explicamos y solucionamos de diferentes maneras.
+En este Capítulo 3 Creamos desde cero y paso a paso con Express una REST API. Explicamos qué es y cómo funciona. También veremos las diferencias entre POST, PUT y PATCH.
+¡Y vas a entender CORS de una vez por todas! Lo explicamos y solucionamos de diferentes maneras
+
+
+
+En este Capítulo 4 APRENDE el increíble potencial de la arquitectura MVC (modelo/vista/controlador) en este emocionante video! También aprenderás a desplegar tu propia API REST paso a paso
+
+En este Capítulo 5 Crearemos una Base de datos con MySQL con Node.js usando la Arquitectura de Inyección de dependencias
