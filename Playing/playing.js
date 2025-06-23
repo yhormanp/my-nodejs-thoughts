@@ -60,3 +60,16 @@ console.log(global.str);
 module.exports 
 
 
+
+const fs = require('node:fs/promises');
+async function example() {
+  try {
+    const data = await fs.readFile('../destino/test.txt', { encoding: 'utf8' });
+    console.log(data);
+  } catch (err) {
+    console.error(err);
+  }
+  console.log('fin del proceso');
+}
+example();
+
