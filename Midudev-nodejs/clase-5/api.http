@@ -10,7 +10,7 @@ GET http://localhost:1234/movies/33625589-2a2d-11f0-b779-7c10c990d4f3
 
 
 ### RECUPERAR UNA PELICULA POR GENERO
-GET http://localhost:1234/movies?genre=action
+GET http://localhost:1234/movies?genre=crime
 
 
 ### CREAR UNA PELICULA con datos faltantes
